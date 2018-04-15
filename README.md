@@ -15,4 +15,4 @@
 * 1/6, Repeat Buyer Prediction for E-Commerce, [Paper](http://www.kdd.org/kdd2016/papers/files/adf0361-yinA.pdf), [Review](https://drive.google.com/file/d/0BzlQkyEXx-FHN1alc4U2JpcEE/view?usp=sharing)
 
 # 2016
-* 12/22, [Repeat-Buyer-Prediction-for-E-Commerce](https://docs.google.com/presentation/d/1nyzXynHATGYtpRJbwje_6c2FKi5chmgYJybs2XeXbL0/edit?usp=sharing), [Paper](http://www.kdd.org/kdd2016/papers/files/adf0160-liuA.pdf), Cheng-You Lien, Guo-Jhen Bai
+* 12/22, Repeat-Buyer-Prediction-for-E-Commerce, [Paper](http://www.kdd.org/kdd2016/papers/files/adf0160-liuA.pdf), [Review](https://docs.google.com/presentation/d/1nyzXynHATGYtpRJbwje_6c2FKi5chmgYJybs2XeXbL0/edit?usp=sharing)
